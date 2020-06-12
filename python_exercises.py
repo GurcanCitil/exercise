@@ -14,11 +14,16 @@ import time
 #     # else:
 #     #     return x
 #
+
+#/// Time Calculaion of a Process
 # t1 = time.time()
 # a = fizz_buzz(25)
 # print(a)
 # t2 = time.time()
 # print(t2 - t1)
+#/// Time Calculation of a Process
+
+
 
 # def show_numbers(limit):
 #     i = 0
