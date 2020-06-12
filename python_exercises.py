@@ -35,7 +35,7 @@ import time
 #     return rows
 # a = stars(7)
 
-
+#print()
 
 # def check(limit):
 #     for Number in range(1, limit):
